@@ -35,7 +35,6 @@
 - React Router의 `BrowserRouter`를 설정해야 합니다.
 - 메인 페이지`/`에 `Home` 컴포넌트를 렌더링 해야 합니다.
 - `/admin`에서 `Dashboard`를 렌더링 해야 합니다. 이는 모든 `/admin` 경로에서 보입니다.
-- `/admin`에서 `Dashboard`를 렌더링 해야 합니다.
 - `/admin/users`에서 `Users`를 렌더링 해야 합니다.
 - `/admin/users/:id`에서 `UsersDetail`를 렌더링 해야 합니다.
 - `/admin/settings`에서 `Settings`를 렌더링 해야 합니다.
