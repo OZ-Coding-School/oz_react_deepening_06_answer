@@ -27,7 +27,6 @@ export const users = [
     status: 'Active',
     registrationDate: '2023-02-28',
   },
-  // 더 많은 사용자 추가 가능
 ];
 
 // 3. 사용자 상세 정보 (UserDetail.jsx에서 사용)
@@ -89,6 +88,3 @@ export const adminSettings = {
   notificationsEnabled: true,
   allowUserRegistration: true,
 };
-
-// 5. 404 페이지 목업 (NotFound.jsx에서 사용)
-export const notFoundMessage = 'Page not found. Please check the URL or go back to the dashboard.';
